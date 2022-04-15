@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/yebin-Im/twitter%20/static/css/main.7548e81a.css",
-    "main.js": "/yebin-Im/twitter%20/static/js/main.0f5a1f8b.js",
-    "index.html": "/yebin-Im/twitter%20/index.html",
-    "main.7548e81a.css.map": "/yebin-Im/twitter%20/static/css/main.7548e81a.css.map",
-    "main.0f5a1f8b.js.map": "/yebin-Im/twitter%20/static/js/main.0f5a1f8b.js.map"
+    "main.css": "/twitter/static/css/main.7548e81a.css",
+    "main.js": "/twitter/static/js/main.bd9c2fcf.js",
+    "index.html": "/twitter/index.html",
+    "main.7548e81a.css.map": "/twitter/static/css/main.7548e81a.css.map",
+    "main.bd9c2fcf.js.map": "/twitter/static/js/main.bd9c2fcf.js.map"
   },
   "entrypoints": [
     "static/css/main.7548e81a.css",
-    "static/js/main.0f5a1f8b.js"
+    "static/js/main.bd9c2fcf.js"
   ]
 }
